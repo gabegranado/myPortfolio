@@ -24,6 +24,10 @@
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/Logo_C_sharp.svg.png",
+                    "title": "C#"
                 }
         ]},
         {

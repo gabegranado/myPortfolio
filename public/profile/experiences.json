@@ -1,7 +1,19 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
+            "title": "Full-Stack Software Developer III (Team ACA)",
+            "subtitle": "Paycom",
+            "workType": "Full Time",
+            "workDescription": [
+                "Built a dynamic Full-Stack import service allowing employers to bulk upload and seelctively import ACA data (series codes, payroll profiles, zip codes, share costs, etc.) automatically updating employee data calculations across services. Allowing for very large files to be uploaded and reduction in customer support work as clients could now upload their own data",
+                "Migrated legacy PHP/HTML pages to React + TypeScript, improving performance, maintainability, and user experience while integrating with existing backend APIs.",
+                "Improved ACA data accuracy and reduced specialist workload by developing support for multiple employment periods per employee across ACA services. Each period is calculated with unique ACA data for the employee to support accuracy. This allowed our clients to take control over their data and rely less on our customer support agents",
+                "Implemented a new Federal Poverty Level (FPL) affordability calculation option clients could choose, ensuring ACA compliance and accuracy across payroll and benefits services for all clients. Since it was compliance had to meet strict deadlines while maintaining quality of code."
+            ],
+            "dateText": "2024-Current"
+        },
+        {
+            "title": "Software Developer",
             "subtitle": "Paycom",
             "workType": "Internship",
             "workDescription": [
@@ -12,11 +24,11 @@
             "dateText": "2021"
         },
         {
-            "title": "Software Engineer",
+            "title": "Software Developer",
             "subtitle": "Favor",
             "workType": "Internship",
             "workDescription": [
-                "Reduced Favor’s response time through the addition of ETag headers and Cache-Control Headers via middleware and a new response interface that is used widely on all core services",
+                "Reduced Favor’s response time through the addition of ETag headers and Cache-Control Headers via middleware and a new response interface that is used widely on all core services. This was most ran code at Favor getting hit 30 million times a day",
                 "Worked with large datasets to group users based on value to the company and implemented this cohosting in marketing tools",
                 "Implemented custom events and listeners and published these events to marketing tools",
                 "Fixed vulnerabilities in services to prevent outages"
